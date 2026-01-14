@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "admin",
+        "totalGamesOwned": 3,
+        "gamesOwned": ["Dark Souls", "Elden Ring", "Skyrim"],
+        "eachGamesPlayed":{
+            "Dark Souls": 20,
+            "Elden Ring": 100,
+            "Skyrim": 60
+        },
+        "Wishlist": ["Cyberpunk 2077", "The Witcher 3", "GTA V", "Red Dead Redemption 2", "The Elder Scrolls V: Skyrim", "The Legend of Zelda: Breath of the Wild", "The Last of Us Part II", "God of War "]
+    },
+    {
+        "id": 2,
+        "username": "jurgen",
+        "password": "password1",
+        "totalGamesOwned": 2,
+        "gamesOwned": ["World of Warcraf", "League of Legends"],
+        "eachGamesPlayed":{
+            "World of Warcraf": 200,
+            "League of Legends": 500
+        },
+        "Wishlist": ["Cyberpunk 2077", "The Witcher 3", "GTA V", "Red Dead Redemption 2", "The Elder Scrolls V: Skyrim", "The Legend of Zelda: Breath of the Wild", "The Last of Us Part II", "God of War "]
+    }
+
+
+]
